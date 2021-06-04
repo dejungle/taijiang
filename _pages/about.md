@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant researcher of the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing, P. R. China.
+I am an assistant researcher of the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). I am also with [BNRist](http://www.bnrist.tsinghua.edu.cn/).
 
 
 Getting started
