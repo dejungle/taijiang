@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant researcher of the [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/) in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/). I am also with [BNRist](http://www.bnrist.tsinghua.edu.cn/).
 
-![BNRist](images/BNRist.png "BNRist")
+![THU](images/tsinghua.png "Tsinghua") | ![thucst](images/thu-cs-logo.png "THUCST") |![BNRist](images/BNRist.png "BNRist")
 
 
 Getting started
